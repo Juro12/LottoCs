@@ -1,0 +1,11 @@
+C:\Users\Juro\source\repos\lotto\lotto\obj\Debug\netcoreapp2.1\lotto.csprojAssemblyReference.cache
+C:\Users\Juro\source\repos\lotto\lotto\obj\Debug\netcoreapp2.1\lotto.csproj.CoreCompileInputs.cache
+C:\Users\Juro\source\repos\lotto\lotto\obj\Debug\netcoreapp2.1\lotto.AssemblyInfoInputs.cache
+C:\Users\Juro\source\repos\lotto\lotto\obj\Debug\netcoreapp2.1\lotto.AssemblyInfo.cs
+C:\Users\Juro\source\repos\lotto\lotto\bin\Debug\netcoreapp2.1\lotto.deps.json
+C:\Users\Juro\source\repos\lotto\lotto\bin\Debug\netcoreapp2.1\lotto.runtimeconfig.json
+C:\Users\Juro\source\repos\lotto\lotto\bin\Debug\netcoreapp2.1\lotto.runtimeconfig.dev.json
+C:\Users\Juro\source\repos\lotto\lotto\bin\Debug\netcoreapp2.1\lotto.dll
+C:\Users\Juro\source\repos\lotto\lotto\bin\Debug\netcoreapp2.1\lotto.pdb
+C:\Users\Juro\source\repos\lotto\lotto\obj\Debug\netcoreapp2.1\lotto.dll
+C:\Users\Juro\source\repos\lotto\lotto\obj\Debug\netcoreapp2.1\lotto.pdb
